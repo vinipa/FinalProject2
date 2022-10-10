@@ -1,2 +1,2 @@
-Fill in the fields to see the markdown badge snippet.
-Fill in the fields to see the rST badge snippet.
+generate_badge(path = ".", branch = "master", hub = "mybinder.org",
+  urlpath = "rstudio")
