@@ -1,2 +1,4 @@
-generate_badge(path = ".", branch = "master", hub = "mybinder.org",
-  urlpath = "rstudio")
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinipa/FinalProject2.git/HEAD?urlpath=%2Fvoila%2Frender%2FProject.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/vinipa/FinalProject2.git/HEAD?urlpath=%2Fvoila%2Frender%2FProject.ipynb
